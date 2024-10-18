@@ -51,5 +51,5 @@ Here’s what I’m working with:
 Feel free to reach out to collaborate, ask questions, or just say hi!
 
 - 🌐 [Portfolio Website](https://esthermamai.github.io)
-- 💼 [LinkedIn](https://linkedin.com/in/esthermamai)
+- 💼 [LinkedIn](https://www.linkedin.com/in/esther-mamai-01070a223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📧 mamaiesther47@gmail.com
