@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm Esther! 👋
+## I'm Esther! 👋
 
 Welcome to my GitHub profile! I'm an enthusiastic **Electronic and Computer Engineering** student, **Software Engineer**, and **Data Analyst** passionate about building impactful solutions. I enjoy working at the intersection of **hardware**, **software**, and **machine learning**. 🚀
 
